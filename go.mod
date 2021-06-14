@@ -1,3 +1,3 @@
-module bitbucket.org/myyogateacher/group_class_api/healthcheck
+module bitbucket.org/myyogateacher/healthcheck
 
 go 1.16
