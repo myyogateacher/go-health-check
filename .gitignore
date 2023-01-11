@@ -1,7 +1,6 @@
 # Binaries for programs and plugins
 healthcheck
 healthcheck/healthcheck
-config/debug.json
 app/__debug_bin
 logs/*.log
 app/app
